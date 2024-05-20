@@ -1,12 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 
 :root {
-  --primary-color: #59545d;
-  --primary-color-dark: #5f86e1;
-  --secondary-color: #bcb5a7;
-  --text-dark: #3a72c0;
-  --text-light: #42465069;
-  --extra-light: #4a5cb8;
+  --primary-color: #a855f7;
+  --primary-color-dark: #9333ea;
+  --secondary-color: #ca8a04;
+  --text-dark: #1f2937;
+  --text-light: #6b7280;
+  --extra-light: #faf5ff;
   --max-width: 1200px;
 }
 
